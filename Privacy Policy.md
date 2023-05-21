@@ -1,7 +1,7 @@
 # Privacy Policy
 14 12 2020
 
-Genii follows the relevant legal requirements and takes all reasonable precautions to safeguard personal information.
+QRCOde follows the relevant legal requirements and takes all reasonable precautions to safeguard personal information.
 
 ## INTRODUCTION
 
